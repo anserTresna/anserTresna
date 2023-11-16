@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansertresna&label=Profile%20views&color=0e75b6&style=flat" alt="ansertresna" /> </p>
 
--   🔭 I’m currently internship and doing some project **Tania Gudang, Gootestlab.id, Nyapa-CRM**
+-   🔭 I’m currently internship as web developer using Laravel Framework and manage some project **Tania Gudang, Gootestlab.id, Nyapa-CRM**
 
 -   🌱 I’m currently learning **Javascript, NodeJs, NextJs**
 

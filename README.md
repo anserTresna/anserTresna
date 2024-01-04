@@ -3,11 +3,7 @@
 <h3 align="center">I have an interest in web development and system architecture.</h3>
 </br>
 
-
-
--   🔭 I’m currently internship as web developer using Laravel Framework and manage some project **Tania Gudang, Gootestlab.id, Nyapa-CRM**
-
--   🌱 I’m currently learning **Javascript, NodeJs, NextJs**
+-   🌱 Doing Better and Learn More
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monument+Extended&pause=1000&color=FD8D14&random=false&width=435&height=100&lines=Hello%2C+I'm+Tresna+Subakti+;Welcome+;Let's+Connect+%F0%9F%91%8C" alt="Typing SVG" /></a></a></h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=B843C4&random=false&width=435&lines=Hi+!!;%3C+Welcome+%2F%3E" alt="Typing SVG" /></a>
 
 <a href="https://github.com/ansertresna" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />

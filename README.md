@@ -9,6 +9,9 @@
 <a href="https://instagram.com/ansertresna" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+<a href="https://paypal.me/tresnasubakti" target="_blank">
+<img src=https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge&logo=paypal&logoColor=white alt=paypal style="margin-bottom: 5px;"/>
+</a>
   
 
 
@@ -52,12 +55,5 @@ Hello i'm Tresna Subakti, a Junior Web Developer who embarked on the coding jour
 
 <br/>  
 
-<div align="left">
-            <a href="https://paypal.me/tresnasubakti" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="left"
-                />
-            </a></div>
 <br />
 

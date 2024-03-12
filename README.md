@@ -61,5 +61,3 @@ Hello i'm Tresna Subakti, a Junior Web Developer who embarked on the coding jour
             </a></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=B843C4&random=false&width=435&lines=Hi+!!;%3C+Welcome+%2F%3E" alt="Typing SVG" /></a>
-
+<!--
 <a href="https://github.com/ansertresna" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -9,6 +9,7 @@
 <a href="https://instagram.com/ansertresna" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+-->
 <!-- <a href="https://paypal.me/tresnasubakti" target="_blank">
 <img src=https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge&logo=paypal&logoColor=white alt=paypal style="margin-bottom: 5px;"/>
 </a> -->

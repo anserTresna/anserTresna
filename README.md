@@ -18,7 +18,7 @@
 
 
 ### Glad to see you here!  
-Hello i'm Tresna Subakti, a Junior Web Developer who embarked on the coding journey several years ago. I have a keen interest in web development and have gained proficiency in using frameworks like Laravel for backend.
+Hello i'm Tresna Subakti, a Junior Web Developer who embarked on the coding journey several years ago. I have a keen interest in web development and have gained proficiency in using frameworks like Laravel.
   
   
 
